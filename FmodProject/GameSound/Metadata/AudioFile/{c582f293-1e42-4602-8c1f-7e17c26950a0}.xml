@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c582f293-1e42-4602-8c1f-7e17c26950a0}">
+		<property name="assetPath">
+			<value>215846__vkproduktion__toygun-004.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0448979591836736</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05ac8327-0db9-4727-ae71-bf382c37ee67}</destination>
+		</relationship>
+	</object>
+</objects>
